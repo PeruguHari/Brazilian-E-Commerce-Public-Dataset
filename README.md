@@ -210,11 +210,10 @@ E-Commerce-Analytics/
 ├── SQL/
 │   └── Ecommerce_SQL_Queries.sql
 │
-├── Data/
+├──  Final Data/
 │   └── Sample_Data.csv
 │
 ├── README.md
-├── requirements.txt
 └── .gitignore
 ```
 
